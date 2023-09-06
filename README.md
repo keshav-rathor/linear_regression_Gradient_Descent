@@ -1,4 +1,4 @@
-# linear_regression_Gradient_Descent
+# Linear_Regression_Gradient_Descent
 Creating a Gradient descent for linear regression. from scratch
 <img width="575" alt="Screenshot 2023-09-05 at 8 21 40 PM" src="https://github.com/keshav-rathor/linear_regression_Gradient_Descent/assets/41488865/efe555cf-18c7-43ff-9409-4e2828c7a10b">
 
